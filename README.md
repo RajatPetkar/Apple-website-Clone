@@ -34,9 +34,9 @@ https://applewebsiteclonebyrajat.netlify.app/
 To view How website Look's Like click on the above link
 ## Screenshots
 
-![App Screenshot]()
-![App Screenshot]()
-![App Screenshot]()
+![App Screenshot](https://github.com/RajatPetkar/Apple-website-Clone/blob/main/Apple%20web%20clone/screenshot/Screenshot%20(20).png)
+![App Screenshot](https://github.com/RajatPetkar/Apple-website-Clone/blob/main/Apple%20web%20clone/screenshot/Screenshot%20(21).png)
+![App Screenshot](https://github.com/RajatPetkar/Apple-website-Clone/blob/main/Apple%20web%20clone/screenshot/Screenshot%20(22).png)
 
 ## Contributing
 
